@@ -2,9 +2,9 @@
 
 **Senior IVI Core Design** (In-Vehicle Infotainment) · Nissan North America · Farmington Hills, MI
 
-14+ years across connected vehicles, IVI/AOSP, Azure Databricks telemetry, and local agentic tooling for engineering QA.
+14+ years across connected vehicles, IVI/AOSP, Azure Databricks telemetry, local agentic tooling, IQS analysis, and Databricks FinOps.
 
-[LinkedIn](https://www.linkedin.com/in/burak-durig/) · [Portfolio](https://github.com/burakdurig/portfolio) · [Resume-aligned profile](https://github.com/burakdurig)
+[LinkedIn](https://www.linkedin.com/in/burak-durig/) · [Portfolio](https://github.com/burakdurig/portfolio)
 
 ---
 
@@ -13,16 +13,30 @@
 | Area | What I deliver |
 |------|----------------|
 | **IVI / AOSP** | In-vehicle infotainment quality, CarPlay & Android Auto certification support, Android platform work |
-| **Data / cloud** | Azure Databricks, Spark/Python pipelines, Medallion-style B2B telemetry, governance & automated QA |
-| **Agentic systems** | Local RAG/MCP agents, hybrid search, offline engineering chatbots, allowlisted automation |
+| **Data / cloud** | Azure Databricks, Spark/Python pipelines, Medallion ingestion frameworks, B2B telemetry QA & governance |
+| **Agentic systems** | Local RAG/MCP agents, hybrid search, offline engineering chatbots, allowlisted operator automation |
+| **Quality & FinOps** | IQS analysis tooling, RCA workflows, Databricks cost-reduction / platform FinOps docs |
 
-Public repos are mostly **Kotlin/Android training**. Professional systems stay **private** for IP — see the [portfolio](https://github.com/burakdurig/portfolio) for skills cards.
+Public repos are mostly **Kotlin/Android training**. Professional systems stay **private** for IP — skills cards live in the [portfolio](https://github.com/burakdurig/portfolio).
+
+---
+
+## Private engineering backups (skills only)
+
+| Theme | Private repo (no public clone) |
+|-------|--------------------------------|
+| Operator visual automation | `iNOVA` |
+| Local LLM / CoreSpec agentic stack | `LLMChatCoreSpec` |
+| Probe / B12P telemetry tooling | `b12p-telemetry` |
+| IQS analysis scripts & docs | `iqs-analysis-tools` |
+| EasyIngestion framework patterns | `easyingestion-framework` |
+| Databricks cost-reduction docs | `databricks-cost-reduction` |
 
 ---
 
 ## Stack
 
-`Python` · `SQL` · `Kotlin` / `Java` · `Spark` · `Azure` / `Databricks` · `Docker` · `Android` / `AOSP` · `RAG` / `MCP` · `Git`
+`Python` · `SQL` · `Kotlin` / `Java` · `Spark` · `Azure` / `Databricks` · `Docker` · `Android` / `AOSP` · `RAG` / `MCP` · `Git` / `Bitbucket`
 
 ---
 
@@ -37,4 +51,4 @@ Public repos are mostly **Kotlin/Android training**. Professional systems stay *
 
 ## Note on IP
 
-Employer and partner work is described at a skills level only. Happy to walk through architecture in interviews without publishing proprietary source.
+Employer Bitbucket and partner systems are internal-only (not linkable from public GitHub). Happy to discuss architecture in interviews without publishing proprietary source.
