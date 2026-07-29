@@ -27,7 +27,7 @@ Public repos are mostly **Kotlin/Android training**. Professional systems stay *
 |-------|--------------------------------|
 | Operator visual automation | `iNOVA` |
 | Local LLM / CoreSpec agentic stack | `LLMChatCoreSpec` |
-| Probe / B12P telemetry tooling | `b12p-telemetry` |
+| Leaf vehicle telemetry tooling | `Leaf-telemetry` |
 | IQS analysis scripts & docs | `iqs-analysis-tools` |
 | EasyIngestion framework patterns | `easyingestion-framework` |
 | Databricks cost-reduction docs | `databricks-cost-reduction` |
