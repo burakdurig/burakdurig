@@ -1,6 +1,6 @@
 # Burak Durig
 
-**Senior automotive software & data engineer** based in Farmington Hills, MI.  
+**Senior IVI Core Design** (In-Vehicle Infotainment) at Nissan, based in Farmington Hills, MI.  
 14+ years across connected vehicles, IVI/AOSP, Azure Databricks telemetry, and local agentic tooling for engineering QA.
 
 [LinkedIn](https://www.linkedin.com/in/burak-durig/) · [Project portfolio](https://github.com/burakdurig/portfolio) · [GitHub](https://github.com/burakdurig)
@@ -28,7 +28,7 @@ Public repos are mostly **Kotlin/Android training**. Professional systems (opera
 
 ## Background
 
-- **Nissan North America** — Senior IVI / connected-vehicle & telemetry engineering (2020–present)
+- **Nissan North America** — Senior IVI Core Design (2020–present)
 - Earlier: Product Quality Engineer (Nissan); Product Design Engineer (Cummins)
 - **B.S. Mechanical Engineering**, University of Texas at Austin
 - Certifications: PMP · Scrum · Six Sigma Black Belt
