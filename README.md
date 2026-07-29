@@ -1,28 +1,28 @@
 # Burak Durig
 
-**Senior IVI Core Design** (In-Vehicle Infotainment) at Nissan, based in Farmington Hills, MI.  
+**Senior IVI Core Design** (In-Vehicle Infotainment) · Nissan North America · Farmington Hills, MI
+
 14+ years across connected vehicles, IVI/AOSP, Azure Databricks telemetry, and local agentic tooling for engineering QA.
 
-[LinkedIn](https://www.linkedin.com/in/burak-durig/) · [Project portfolio](https://github.com/burakdurig/portfolio) · [GitHub](https://github.com/burakdurig)
+[LinkedIn](https://www.linkedin.com/in/burak-durig/) · [Portfolio](https://github.com/burakdurig/portfolio) · [Resume-aligned profile](https://github.com/burakdurig)
 
 ---
 
-## What I work on
+## Focus areas
 
-| Area | Focus |
-|------|--------|
-| **Data / cloud** | Azure Databricks, Spark/Python ETL, Medallion-style pipelines, B2B telemetry QA & governance |
+| Area | What I deliver |
+|------|----------------|
+| **IVI / AOSP** | In-vehicle infotainment quality, CarPlay & Android Auto certification support, Android platform work |
+| **Data / cloud** | Azure Databricks, Spark/Python pipelines, Medallion-style B2B telemetry, governance & automated QA |
 | **Agentic systems** | Local RAG/MCP agents, hybrid search, offline engineering chatbots, allowlisted automation |
-| **Mobile / embedded** | Android / AOSP, IVI, CarPlay & Android Auto certification support |
-| **Quality & delivery** | Automated QA, RCA, DevOps for fleet/enterprise data products |
 
-Public repos are mostly **Kotlin/Android training**. Professional systems (operator automation, local LLM/CoreSpec tooling) stay **private** for IP reasons — skills cards live in the [portfolio](https://github.com/burakdurig/portfolio).
+Public repos are mostly **Kotlin/Android training**. Professional systems stay **private** for IP — see the [portfolio](https://github.com/burakdurig/portfolio) for skills cards.
 
 ---
 
-## Stack (high signal)
+## Stack
 
-`Python` · `SQL` · `Kotlin`/`Java` · `Spark` · `Azure`/`Databricks` · `Docker` · `Android`/`AOSP` · `RAG`/`MCP` · `Git`
+`Python` · `SQL` · `Kotlin` / `Java` · `Spark` · `Azure` / `Databricks` · `Docker` · `Android` / `AOSP` · `RAG` / `MCP` · `Git`
 
 ---
 
@@ -37,4 +37,4 @@ Public repos are mostly **Kotlin/Android training**. Professional systems (opera
 
 ## Note on IP
 
-Employer and partner work is described at a skills level only. Ask for a private walkthrough in interviews — I do not publish proprietary source.
+Employer and partner work is described at a skills level only. Happy to walk through architecture in interviews without publishing proprietary source.
